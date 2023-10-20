@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "WineChord",
+      "id": 20353612,
+      "comment_id": 1771944300,
+      "created_at": "2023-10-20T01:44:31Z",
+      "repoId": 676475625,
+      "pullRequestNo": 7
+    }
+  ]
 }
