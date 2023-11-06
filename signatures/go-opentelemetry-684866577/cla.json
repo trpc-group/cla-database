@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "hanyuancheung",
+      "id": 48237831,
+      "comment_id": 1793984704,
+      "created_at": "2023-11-06T02:29:07Z",
+      "repoId": 684866577,
+      "pullRequestNo": 10
+    }
+  ]
 }
