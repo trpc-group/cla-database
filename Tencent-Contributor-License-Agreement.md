@@ -1,6 +1,6 @@
 # Tencent Contributor License Agreement
 
-In order to clarify the intellectual property license granted with Contributions from any individual or entity, THL A29 Limited (including its Affiliates, collectively **"Tencent"** ) must have a Contributor License Agreement (**"CLA"**) on file that has been signed by each Contributor (as defined below), indicating agreement to the license terms below.
+In order to clarify the intellectual property license granted with Contributions from any individual or entity, Tencent must have a Contributor License Agreement (**"CLA"**) on file that has been signed by each Contributor (as defined below), indicating agreement to the license terms below.
 This license is for Your protection as a Contributor as well as the protection of Tencent and its users; it does not change Your rights to use Your own Contributions for any other purpose.
 
 This CLA allows either an individual or an entity (the **"Corporation"**) to Submit Contributions to Tencent, to authorize Contributions Submitted by its employees or agents to Tencent (in the case of a Corporation), and to grant copyright and patent licenses thereto.
