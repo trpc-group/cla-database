@@ -1,3 +1,12 @@
 {
-  "signedContributors": []
-} 
+  "signedContributors": [
+    {
+      "name": "chhy2009",
+      "id": 13065935,
+      "comment_id": 3095651770,
+      "created_at": "2025-07-21T08:02:44Z",
+      "repoId": 678224188,
+      "pullRequestNo": 8
+    }
+  ]
+}
