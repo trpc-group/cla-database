@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "Rememorio",
+      "id": 72180543,
+      "comment_id": 4108291474,
+      "created_at": "2026-03-23T06:19:29Z",
+      "repoId": 1186846286,
+      "pullRequestNo": 2
+    }
+  ]
 }
