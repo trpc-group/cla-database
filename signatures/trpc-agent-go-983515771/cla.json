@@ -919,6 +919,14 @@
       "created_at": "2026-07-29T17:21:20Z",
       "repoId": 983515771,
       "pullRequestNo": 2374
+    },
+    {
+      "name": "furutachiKurea",
+      "id": 211097312,
+      "comment_id": 5122834471,
+      "created_at": "2026-07-29T19:58:03Z",
+      "repoId": 983515771,
+      "pullRequestNo": 2375
     }
   ]
 }
