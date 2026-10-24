@@ -1239,6 +1239,14 @@
       "created_at": "2026-10-22T09:37:56Z",
       "repoId": 983515771,
       "pullRequestNo": 2689
+    },
+    {
+      "name": "RyoKusnadi",
+      "id": 24778575,
+      "comment_id": 6385609477,
+      "created_at": "2026-10-24T14:48:55Z",
+      "repoId": 983515771,
+      "pullRequestNo": 2692
     }
   ]
 }
